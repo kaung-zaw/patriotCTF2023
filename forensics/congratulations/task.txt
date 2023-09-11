@@ -1,0 +1,9 @@
+Congratulations
+487
+Easy
+
+Congratulations on making it this far, here's an email attatchment.
+
+Flag format: PCTF{}
+
+Author: @elbee#3779

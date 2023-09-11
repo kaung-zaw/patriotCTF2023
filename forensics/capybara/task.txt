@@ -1,0 +1,9 @@
+Capybara
+479
+Easy
+
+What a cute picture of a capybara!
+
+Flag format: PCTF{}
+
+Author: @txnner
